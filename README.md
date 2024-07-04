@@ -3,7 +3,6 @@
 
 <h1 align="center">"Hello world" 👋</h1>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/james-titus-0a94b621a/" target="_blank">
