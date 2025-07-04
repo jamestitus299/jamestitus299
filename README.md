@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm James<br><br>- 👩‍💻 Love to CODE<br>- ⚡ In my free time I love to read and bing movies<br>- 💞️ I’m looking to collaborate on projects.<br>- 📫 Reach me on E-mail: jamestitus299@gmail.com</p>
+<p align="left">I'm James<br><br>- 👩‍💻 Love to CODE <br><br>- 📫 Reach me on E-mail: jamestitus299@gmail.com</p>
 
 ###
 
