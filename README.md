@@ -17,11 +17,13 @@
 
 ###
 
+<!--
 <h3 align="left">👩‍💻  About Me</h3>
+-->
 
 ###
 
-<p align="left">I'm James<br><br>- 👩‍💻 Love to CODE, lazy to solve bugs <br><br>- 📫 Reach me on E-mail: jamestitus299@gmail.com</p>
+<p align="left">I'm James<br><br>- 👩‍💻 Love to CODE <br><br>- 🥱 Lazy to solve bugs <br><br>- 📫 Reach me on E-mail: jamestitus299@gmail.com</p>
 
 ###
 
